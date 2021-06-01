@@ -4,6 +4,8 @@ This project was an educational project done with the help of freecodecamp.org. 
 
 source- https://www.youtube.com/channel/UCnnnWy4UTYN258FfVGeXBbg
 
+deployed here- https://jaykeeshow.github.io/tetris-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
